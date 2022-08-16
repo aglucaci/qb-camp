@@ -1,4 +1,4 @@
-## Welcome to QB Camp (Pelham Bay Park)
+## Welcome to QB Camp
 
 From the BX to World Wide.
 
