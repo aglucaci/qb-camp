@@ -6,7 +6,9 @@ From the BX to World Wide.
      alt="QB Camp Logo 2022"
      style="float: left; margin-right: 10px;" />
 
-<p> <p/>
+
+
+
 
 ### Upcoming Schedule
 
