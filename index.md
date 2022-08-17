@@ -6,6 +6,8 @@ From the BX to World Wide.
      alt="QB Camp Logo 2022"
      style="float: left; margin-right: 10px;" />
 
+<p> <p/>
+
 ### Upcoming Schedule
 
 August 18, 2022 @ 6 P.M. (Pelham Bay Park)
