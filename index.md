@@ -12,10 +12,11 @@ From the BX to World Wide.
 
 ### Upcoming Schedule
 
-August 18, 2022 @ 6 P.M. (Pelham Bay Park)
+TBD
 
 ### Past Schedule
 
+~~August 18, 2022 @ 6 P.M. (Pelham Bay Park) (cancelled)~~
 ~~August 16, 2022 @ 6 P.M. (Pelham Bay Park)~~
 
 ### Contact
@@ -31,3 +32,8 @@ Coming soon...
 <img src="images/PB1_08_16_2022.jpg"
      alt="Pelham Bay Park (August 16 2022)"
      style="float: left; margin-right: 10px;" />
+
+
+### Conditioning resources
+
+[Couch to 5k](http://www.c25k.com/c25k_metric.html)
