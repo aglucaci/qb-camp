@@ -4,7 +4,7 @@ From the BX to World Wide.
 
 <img src="images/QB_CAMP_2022_LOGO.png"
      alt="QB Camp Logo 2022"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" /> \
 
 
 
@@ -16,7 +16,7 @@ TBD
 
 ### Past Schedule
 
-~~August 18, 2022 @ 6 P.M. (Pelham Bay Park) (cancelled)~~
+~~August 18, 2022 @ 6 P.M. (Pelham Bay Park) (cancelled)~~ \
 ~~August 16, 2022 @ 6 P.M. (Pelham Bay Park)~~
 
 ### Contact
