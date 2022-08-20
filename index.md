@@ -12,7 +12,7 @@ From the BX to World Wide.
 
 ### Upcoming Schedule
 
-TBD
+August 20, 2022 @ 10 A.M. (Pelham Bay Park)
 
 ### Past Schedule
 
