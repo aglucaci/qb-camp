@@ -46,3 +46,7 @@ Hit up Coach Vat.
 ### Coaching resources
 
 [PDFs](https://github.com/aglucaci/qb-camp/tree/gh-pages/PDFs)
+
+### Interesting Film
+
+[Men's Flag Football Championship: Italy vs. USA | 2022 World Games](https://www.youtube.com/watch?v=nYb3I9DLawk)
