@@ -34,7 +34,7 @@ Hit up Coach Vat.
      alt="Pelham Bay Park (August 16 2022)"
      style="float: left; margin-right: 10px;" />
 
-<img src="images/images/SaturdayMorning.jpg"
+<img src="images/SaturdayMorning.jpg"
      alt="Pelham Bay Park (August 20 2022)"
      style="float: left; margin-right: 10px;" />
 
