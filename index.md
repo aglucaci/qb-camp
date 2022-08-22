@@ -26,7 +26,7 @@ Hit up Coach Vat.
 
 ### Playbook and warmup routine
 
-Coming soon...
+[Current 7-on-7 Playbook](https://github.com/aglucaci/qb-camp/raw/gh-pages/PDFs/ADM-7-on-7-Flag-Playbook.pdf)
 
 ### Training photos
 
@@ -34,6 +34,9 @@ Coming soon...
      alt="Pelham Bay Park (August 16 2022)"
      style="float: left; margin-right: 10px;" />
 
+<img src="images/images/SaturdayMorning.jpg"
+     alt="Pelham Bay Park (August 20 2022)"
+     style="float: left; margin-right: 10px;" />
 
 
 ### Conditioning resources
