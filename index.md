@@ -6,16 +6,13 @@ From the BX to World Wide.
      alt="QB Camp Logo 2022"
      style="float: center; margin-right: 10px;" /> 
 
-
-
-
-
 ### Upcoming Schedule
 
-August 23, 2022 @ 6 P.M. (Pelham Bay Park)
+August 28, 2022 @ 1 P.M. (Rockland County)
 
 ### Past Schedule
 
+~~August 23, 2022 @ 6 P.M. (Pelham Bay Park)~~
 ~~August 20, 2022 @ 10 A.M. (Pelham Bay Park)~~ \
 ~~August 18, 2022 @ 6 P.M. (Pelham Bay Park) (cancelled)~~ \
 ~~August 16, 2022 @ 6 P.M. (Pelham Bay Park)~~
