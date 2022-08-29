@@ -40,7 +40,6 @@ Hit up Coach Vat.
      style="float: left; margin-right: 10px;" />
 
 <br/>
-<br/>
 
 ### Conditioning resources 
 
