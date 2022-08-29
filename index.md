@@ -19,7 +19,7 @@ From the BX to World Wide.
 ~~August 23, 2022 @ 6 P.M. (Pelham Bay Park)~~ \
 ~~August 20, 2022 @ 10 A.M. (Pelham Bay Park)~~ \
 ~~August 18, 2022 @ 6 P.M. (Pelham Bay Park) (cancelled)~~ \
-~~August 16, 2022 @ 6 P.M. (Pelham Bay Park)~~ \
+~~August 16, 2022 @ 6 P.M. (Pelham Bay Park)~~ 
 
 ### Contact
 
