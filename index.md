@@ -8,8 +8,10 @@ From the BX to World Wide.
 
 ### Upcoming Schedule
 
-August 30, 2022   @ 6 P.M. (Pelham Bay Park)
-September 1, 2022 @ 6 P.M. (Pelham Bay Park)
+<ul>
+  <li>August 30, 2022   @ 6 P.M. (Pelham Bay Park)</li>
+  <li>September 1, 2022 @ 6 P.M. (Pelham Bay Park)</li>
+</ul>
 
 ### Past Schedule
 
