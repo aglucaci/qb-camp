@@ -1,4 +1,4 @@
-<!--- ## Welcome to QB Camp -->
+# Welcome to QB Camp 
 
 From the BX to World Wide.
 
