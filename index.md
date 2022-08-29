@@ -8,14 +8,16 @@ From the BX to World Wide.
 
 ### Upcoming Schedule
 
-August 28, 2022 @ 1 P.M. (Rockland County)
+August 30, 2022   @ 6 P.M. (Pelham Bay Park)
+September 1, 2022 @ 6 P.M. (Pelham Bay Park)
 
 ### Past Schedule
 
-~~August 23, 2022 @ 6 P.M. (Pelham Bay Park)~~
+~~August 28, 2022 @ 1 P.M. (Rockland County)~~ \
+~~August 23, 2022 @ 6 P.M. (Pelham Bay Park)~~ \
 ~~August 20, 2022 @ 10 A.M. (Pelham Bay Park)~~ \
 ~~August 18, 2022 @ 6 P.M. (Pelham Bay Park) (cancelled)~~ \
-~~August 16, 2022 @ 6 P.M. (Pelham Bay Park)~~
+~~August 16, 2022 @ 6 P.M. (Pelham Bay Park)~~ \
 
 ### Contact
 
@@ -35,8 +37,10 @@ Hit up Coach Vat.
      alt="Pelham Bay Park (August 20 2022)"
      style="float: left; margin-right: 10px;" />
 
+<br/>
+<br/>
 
-### Conditioning resources
+### Conditioning resources 
 
 [Couch to 5k](http://www.c25k.com/c25k_metric.html)
 
