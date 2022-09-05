@@ -9,12 +9,13 @@ From the BX to World Wide.
 ### Upcoming Schedule
 
 <ul>
-  <li>August 30, 2022   @ 6 P.M. (Pelham Bay Park)</li>
-  <li>September 1, 2022 @ 6 P.M. (Pelham Bay Park)</li>
+  <li>September 8, 2022 @ 6 P.M. (Pelham Bay Park)</li>
 </ul>
 
 ### Past Schedule
 
+~~September 1, 2022 @ 6 P.M. (Pelham Bay Park)~~ \
+~~August 30, 2022   @ 6 P.M. (Pelham Bay Park)~~ \
 ~~August 28, 2022 @ 1 P.M. (Rockland County)~~ \
 ~~August 23, 2022 @ 6 P.M. (Pelham Bay Park)~~ \
 ~~August 20, 2022 @ 10 A.M. (Pelham Bay Park)~~ \
