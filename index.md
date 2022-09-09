@@ -9,11 +9,12 @@ From the BX to World Wide.
 ### Upcoming Schedule
 
 <ul>
-  <li>September 8, 2022 @ 6 P.M. (Pelham Bay Park)</li>
+  <li>TBD</li>
 </ul>
 
 ### Past Schedule
 
+~~September 8, 2022 @ 6 P.M. (Pelham Bay Park)~~ \ 
 ~~September 1, 2022 @ 6 P.M. (Pelham Bay Park)~~ \
 ~~August 30, 2022   @ 6 P.M. (Pelham Bay Park)~~ \
 ~~August 28, 2022 @ 1 P.M. (Rockland County)~~ \
@@ -31,6 +32,10 @@ Hit up Coach Vat.
 [Current 7-on-7 Playbook](https://github.com/aglucaci/qb-camp/raw/gh-pages/PDFs/ADM-7-on-7-Flag-Playbook.pdf)
 
 ### Training photos
+
+<img src="images/QBCAMP_ORCHARD_BEACH_2020"
+     alt="Orchard Beach (September 8 2022)"
+     style="float: left; margin-right: 10px;" />
 
 <img src="images/PB1_08_16_2022.jpg"
      alt="Pelham Bay Park (August 16 2022)"
