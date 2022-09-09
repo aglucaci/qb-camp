@@ -14,7 +14,7 @@ From the BX to World Wide.
 
 ### Past Schedule
 
-~~September 8, 2022 @ 6 P.M. (Pelham Bay Park)~~ \ 
+~~September 8, 2022 @ 6 P.M. (Orchard Beach)~~ \ 
 ~~September 1, 2022 @ 6 P.M. (Pelham Bay Park)~~ \
 ~~August 30, 2022   @ 6 P.M. (Pelham Bay Park)~~ \
 ~~August 28, 2022 @ 1 P.M. (Rockland County)~~ \
