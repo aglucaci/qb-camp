@@ -33,7 +33,7 @@ Hit up Coach Vat.
 
 ### Training photos
 
-<img src="images/QBCAMP_ORCHARD_BEACH_2020"
+<img src="images/QBCAMP_ORCHARD_BEACH_2020.jpg"
      alt="Orchard Beach (September 8 2022)"
      style="float: left; margin-right: 10px;" />
 
