@@ -9,11 +9,13 @@ From the BX to World Wide.
 ### Upcoming Schedule
 
 <ul>
-  <li>TBD</li>
+  <li>September 16, 2022 @ 6 P.M. (Orchard Beach) </li>
+  <li>September 18, 2022 @ 10 A.M. (Pelham Bay Park) </li>
 </ul>
 
 ### Past Schedule
 
+~~September 13, 2022 @ 6 P.M. (Orchard Beach)~~ \
 ~~September 8, 2022 @ 6 P.M. (Orchard Beach)~~ \
 ~~September 1, 2022 @ 6 P.M. (Pelham Bay Park)~~ \
 ~~August 30, 2022   @ 6 P.M. (Pelham Bay Park)~~ \
