@@ -14,8 +14,7 @@ From the BX to World Wide.
 
 ### Past Schedule
 
-~~October 9, 2022 @ 8 A.M. (Orchard Beach)~~ \ 
-
+~~October 9, 2022 @ 8 A.M. (Orchard Beach)~~ 
 ~~September 27, 2022 @ 5 P.M. (Pelham Bay Park)~~ \
 ~~September 16, 2022 @ 6 P.M. (Orchard Beach)~~ \
 ~~September 18, 2022 @ 10 A.M. (Pelham Bay Park)~~ \
