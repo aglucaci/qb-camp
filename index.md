@@ -12,6 +12,12 @@ From the BX to World Wide.
   <li>See you all in Spring 2023! </li>
 </ul>
 
+### Winter Sessions
+
+December, 29 2022 @ 1 P.M. (Pelham Bay Park) \
+January 7, 2023 @ 1 P.M. (Pelham Bay Park) \
+
+
 ### Past Schedule
 
 ~~October 9, 2022 @ 8 A.M. (Orchard Beach)~~ \
