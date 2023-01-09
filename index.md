@@ -15,7 +15,7 @@ From the BX to World Wide.
 ### Winter Sessions
 
 December, 29 2022 @ 1 P.M. (Pelham Bay Park) \
-January 7, 2023 @ 1 P.M. (Pelham Bay Park) \
+January 7, 2023 @ 1 P.M. (Pelham Bay Park) 
 
 
 ### Past Schedule
