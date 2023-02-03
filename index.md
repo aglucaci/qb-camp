@@ -6,18 +6,16 @@ From the BX to World Wide.
      alt="QB Camp Logo 2022"
      style="float: center; margin-right: 10px;" /> 
 
-### Upcoming Schedule
+## SuperBowl Party -- QB Camp Championship
 
-<ul>
-  <li>See you all in Spring 2023! </li>
-</ul>
+February 12, 2023 @ 3 P.M. (Rockland County)
 
 ### Winter Sessions
 
-January 7, 2023 @ 1 P.M. (Pelham Bay Park) \
-December, 29 2022 @ 1 P.M. (Pelham Bay Park) 
+~~January 7, 2023 @ 1 P.M. (Pelham Bay Park)~~ \
+~~December, 29 2022 @ 1 P.M. (Pelham Bay Park)~~ 
 
-### Past Schedule
+### Summer Sessions
 
 ~~October 9, 2022 @ 8 A.M. (Orchard Beach)~~ \
 ~~September 27, 2022 @ 5 P.M. (Pelham Bay Park)~~ \
