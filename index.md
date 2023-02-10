@@ -10,6 +10,10 @@ From the BX to World Wide.
 
 February 12, 2023 @ 3 P.M. (Rockland County)
 
+### Spring 2023 Sessions
+
+March 11, 2023 @ 1 P.M. (Pelham Bay Park)
+
 ### Winter Sessions
 
 ~~January 7, 2023 @ 1 P.M. (Pelham Bay Park)~~ \
