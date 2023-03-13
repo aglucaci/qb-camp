@@ -6,13 +6,19 @@ From the BX to World Wide.
      alt="QB Camp Logo 2022"
      style="float: center; margin-right: 10px;" /> 
 
-## SuperBowl Party -- QB Camp Championship
+## Email signup form
+Get the latest news from Director Dave
+<a href="https://forms.gle/zx2ogydAKGbozrjB8"> QB Camp - Email signup form </a>
 
-February 12, 2023 @ 3 P.M. (Rockland County)
 
 ### Spring 2023 Sessions
 
-March 11, 2023 @ 1 P.M. (Pelham Bay Park)
+~~March 12, 2023 @ 10:30 A.M. (Pelham Bay Park)~~
+Next session: TBD
+
+## SuperBowl Party -- QB Camp Championship
+
+~~February 12, 2023 @ 3 P.M. (Rockland County)~~
 
 ### Winter Sessions
 
