@@ -7,13 +7,12 @@ From the BX to World Wide.
      style="float: center; margin-right: 10px;" /> 
 
 ## Email signup form
-Get the latest news from Director Dave
+Get the latest news from Director Dave \
 <a href="https://forms.gle/zx2ogydAKGbozrjB8"> QB Camp - Email signup form </a>
-
 
 ### Spring 2023 Sessions
 
-~~March 12, 2023 @ 10:30 A.M. (Pelham Bay Park)~~
+~~March 12, 2023 @ 10:30 A.M. (Pelham Bay Park)~~ \
 Next session: TBD
 
 ## SuperBowl Party -- QB Camp Championship
